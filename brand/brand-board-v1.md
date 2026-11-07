@@ -98,6 +98,21 @@ Les portraits de référence et les déclinaisons peuvent utiliser les deux appa
 
 Dans les deux cas, préserver les traits du visage et la pilosité visibles sur les photos de référence, ainsi que le style vestimentaire noir habituel. Les variations portent sur le cadrage, le décor et le port du bonnet, sans transformation vers un archétype corporate.
 
+### Portrait de référence principal — validé par Jonathan
+
+La version générée et corrigée du portrait avec bonnet est approuvée comme référence photographique principale.
+
+Caractéristiques à conserver pour les prochaines déclinaisons :
+- Bonnet noir Obey avec son écusson rectangulaire.
+- Hoodie noir Everlast et sacoche noire en bandoulière.
+- Moustache seule : joues, menton et mâchoire rasés à blanc ; aucun bouc.
+- Traits et proportions du visage cohérents avec les photos personnelles fournies.
+- Peau naturellement retouchée avec discrétion : atténuer les imperfections sans lisser les textures ni changer les traits.
+- Photographie réaliste de qualité professionnelle, lumière latérale chaude, fond sombre et sobre.
+- Garder le style streetwear personnel ; aucun code vestimentaire corporate.
+
+**Statut :** référence avec bonnet approuvée par Jonathan. La variante sans bonnet reste à produire séparément. Le fichier image généré est conservé dans le contexte de cette conversation ; il n'est pas encore stocké comme binaire dans le dépôt GitHub.
+
 ## 8. Maquettes et contenu
 
 La proposition visuelle suggère une page d’accueil avec :
