@@ -49,6 +49,14 @@ Répartition indicative : 60 % ivoire, 30 % anthracite/neutres, 10 % orange et p
 - Les images IA peuvent améliorer la composition ou créer des scènes complémentaires, sans inventer ni présenter comme réels des locaux, équipements, clients ou projets fictifs.
 - Masquer toute information confidentielle sur les écrans et vérifier les droits d'utilisation/provenance.
 
+### Direction photographique personnelle validée
+
+- Respecter le style vestimentaire quotidien : vêtements majoritairement noirs, bonnet Obey, sweat noir et cargo baggy resserré aux chevilles.
+- Ne pas imposer de tenue corporate, costume ou chemise conventionnelle.
+- Préserver l'apparence et les traits réels à partir des photos de référence ; éviter les transformations physiques.
+- Favoriser les poses naturelles et les environnements authentiques.
+- L'esthétique recherchée associe streetwear personnel, minimalisme sombre, technologie et authenticité.
+
 ## 7. Accessibilité
 Respecter les contrastes, la lisibilité, la navigation clavier, les états de focus et la réduction des animations. Vérifier les couples de couleurs réels avec un outil de contraste.
 
