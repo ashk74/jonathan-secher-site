@@ -90,6 +90,14 @@ Des photographies fournies par Jonathan servent de références visuelles pour l
 
 **Limites d'interprétation :** ces vues ne confirment ni le modèle exact ni la configuration technique du MacBook. La pièce et la table visibles ne doivent pas être présentées comme le bureau permanent de Jonathan. Les photos de référence sont présentes dans la conversation ; elles ne sont pas archivées dans le dépôt à ce stade.
 
+### Variantes de portrait — décision validée
+
+Les portraits de référence et les déclinaisons peuvent utiliser les deux apparences réelles, selon le contexte photographique :
+- **Avec bonnet noir Obey :** portraits streetwear, urbains et éditoriaux.
+- **Crâne rasé, sans bonnet :** portraits sobres, naturels et rapprochés.
+
+Dans les deux cas, préserver les traits du visage et la pilosité visibles sur les photos de référence, ainsi que le style vestimentaire noir habituel. Les variations portent sur le cadrage, le décor et le port du bonnet, sans transformation vers un archétype corporate.
+
 ## 8. Maquettes et contenu
 
 La proposition visuelle suggère une page d’accueil avec :
