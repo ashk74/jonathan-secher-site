@@ -57,6 +57,16 @@ Répartition indicative : 60 % ivoire, 30 % anthracite/neutres, 10 % orange et p
 - Favoriser les poses naturelles et les environnements authentiques.
 - L'esthétique recherchée associe streetwear personnel, minimalisme sombre, technologie et authenticité.
 
+### Références matérielles reçues
+
+Des photographies fournies par Jonathan servent de références visuelles pour les futures scènes de travail :
+- MacBook Pro argenté à coque aluminium et clavier AZERTY, montré ouvert et fermé.
+- Écran photographié pendant une session de travail avec ChatGPT.
+- Chargeur connecté et traces d'usure visibles : ne pas retoucher le matériel au point de le rendre artificiellement neuf.
+- Une photo de produit du bonnet noir Obey précise le modèle visuel de référence.
+
+**Limites d'interprétation :** ces vues ne confirment ni le modèle exact ni la configuration technique du MacBook. La pièce et la table visibles ne doivent pas être présentées comme le bureau permanent de Jonathan. Les photos de référence sont présentes dans la conversation ; elles ne sont pas archivées dans le dépôt à ce stade.
+
 ## 7. Accessibilité
 Respecter les contrastes, la lisibilité, la navigation clavier, les états de focus et la réduction des animations. Vérifier les couples de couleurs réels avec un outil de contraste.
 
