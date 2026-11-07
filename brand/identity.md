@@ -22,6 +22,16 @@ La proposition 2 de la Brand Board V1 est la référence sélectionnée.
 
 Les détails d'exécution (logo vectoriel final, contrastes, responsive, assets et tokens CSS) doivent encore être produits et vérifiés. Voir [brand-board-v1.md](brand-board-v1.md) et [visual-guidelines.md](visual-guidelines.md).
 
+## Direction photographique personnelle
+
+Le style quotidien de Jonathan fait partie de son identité visuelle et doit être respecté dans les portraits et scènes générés :
+- vêtements majoritairement noirs ;
+- bonnet Obey ;
+- sweat noir ;
+- pantalon cargo baggy resserré aux chevilles.
+
+L'image doit rester fidèle à son apparence réelle, sans le transformer en consultant conventionnel. Privilégier une photographie soignée mais naturelle, avec une esthétique streetwear minimaliste et technologique.
+
 ## À ne pas publier sans validation
 - Coordonnées personnelles ou professionnelles.
 - Tarifs, conditions commerciales et engagements de délai.
