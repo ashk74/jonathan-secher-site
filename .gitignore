@@ -1,0 +1,20 @@
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Secrets et fichiers locaux
+.env
+.env.*
+!.env.example
+*.local
+.private/
+
+# Dépendances / sorties temporaires
+node_modules/
+dist/
+coverage/
+.cache/
