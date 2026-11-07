@@ -32,6 +32,14 @@ Le style quotidien de Jonathan fait partie de son identité visuelle et doit êt
 
 L'image doit rester fidèle à son apparence réelle, sans le transformer en consultant conventionnel. Privilégier une photographie soignée mais naturelle, avec une esthétique streetwear minimaliste et technologique.
 
+### Variantes de portrait — décision validée
+
+Les portraits de référence et les déclinaisons peuvent utiliser les deux apparences réelles, selon le contexte photographique :
+- **Avec bonnet noir Obey :** portraits streetwear, urbains et éditoriaux.
+- **Crâne rasé, sans bonnet :** portraits sobres, naturels et rapprochés.
+
+Dans les deux cas, préserver les traits du visage et la pilosité visibles sur les photos de référence, ainsi que le style vestimentaire noir habituel. Les variations portent sur le cadrage, le décor et le port du bonnet, sans transformation vers un archétype corporate.
+
 ## À ne pas publier sans validation
 - Coordonnées personnelles ou professionnelles.
 - Tarifs, conditions commerciales et engagements de délai.
