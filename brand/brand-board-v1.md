@@ -113,6 +113,20 @@ Caractéristiques à conserver pour les prochaines déclinaisons :
 
 **Statut :** référence avec bonnet approuvée par Jonathan. La variante sans bonnet reste à produire séparément. Le fichier image généré est conservé dans le contexte de cette conversation ; il n'est pas encore stocké comme binaire dans le dépôt GitHub.
 
+### Variante de portrait sans bonnet — approuvée
+
+Jonathan valide la variante sans bonnet comme portrait complémentaire officiel.
+
+Caractéristiques à préserver :
+- Crâne rasé, sans bonnet.
+- Moustache seule ; joues, menton et mâchoire rasés à blanc, sans bouc.
+- Hoodie noir Everlast et sacoche noire.
+- Même fidélité des traits, proportions et texture naturelle de peau que le portrait principal avec bonnet.
+- Même direction photographique : lumière latérale chaude, fond sombre sobre, rendu professionnel réaliste.
+- Cette variante complète le portrait avec bonnet ; elle ne le remplace pas.
+
+**Statut :** variante sans bonnet approuvée par Jonathan. Les deux versions constituent les références photographiques validées. Les fichiers image binaires ne sont pas encore archivés dans le dépôt.
+
 ## 8. Maquettes et contenu
 
 La proposition visuelle suggère une page d’accueil avec :
