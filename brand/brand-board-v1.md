@@ -68,6 +68,18 @@ Les visuels du site devront distinguer :
 
 Ne pas inventer de témoignages, logos clients, certifications, résultats ou références. Ne pas montrer d’informations confidentielles lisibles sur les écrans. Conserver les sources et droits des images utilisées.
 
+## Direction photographique personnelle — validée
+
+**Principe : fidélité à l'apparence quotidienne de Jonathan.** Ne pas le transformer en consultant conventionnel ni lui imposer un code vestimentaire corporate.
+
+- Tenue habituelle à préserver : vêtements majoritairement noirs, bonnet Obey, sweat noir et pantalon cargo baggy resserré aux chevilles.
+- Conserver les accessoires et détails personnels visibles sur les photos de référence, sauf demande contraire.
+- Garder les traits du visage, la silhouette et l'apparence réelle ; retouches discrètes uniquement.
+- Favoriser les poses naturelles et les scènes crédibles : portrait simple, travail sur son véritable MacBook, moments de concentration et environnement personnel.
+- Direction visuelle : streetwear personnel, minimalisme sombre, technologie et authenticité.
+- Éviter : costume, chemise corporate, posture de banque d'images, sourire forcé, bureau de start-up générique, décor luxueux inventé et esthétique « consultant en costume ».
+- Le rendu peut être soigné et professionnel sans effacer le style personnel.
+
 ## 8. Maquettes et contenu
 
 La proposition visuelle suggère une page d’accueil avec :
