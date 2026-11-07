@@ -1,4 +1,32 @@
 /*
- * Tokens de conception — à compléter après validation de la charte graphique.
- * Ne pas inventer de palette définitive avant validation de la Brand Board V1.
+ * Design tokens — Brand Board V1 / proposition 2
+ * Direction sélectionnée le 2026-11-07.
+ * À vérifier en contexte réel, notamment les contrastes WCAG, avant publication.
  */
+
+:root {
+  /* Brand palette */
+  --color-ink: #1F2937;
+  --color-accent: #F97316;
+  --color-peach: #FCD9B4;
+  --color-ivory: #FFFAF5;
+  --color-gray-100: #E5E7EB;
+
+  /* Semantic aliases */
+  --color-text: var(--color-ink);
+  --color-text-inverse: var(--color-ivory);
+  --color-background: var(--color-ivory);
+  --color-surface: #FFFFFF;
+  --color-border: var(--color-gray-100);
+  --color-primary: var(--color-accent);
+  --color-primary-hover: #EA580C;
+
+  /* Typography */
+  --font-heading: "Manrope", system-ui, sans-serif;
+  --font-body: "Inter", system-ui, sans-serif;
+
+  /* Layout foundations */
+  --radius-card: 1rem;
+  --radius-control: 0.75rem;
+  --content-width: 75rem;
+}
