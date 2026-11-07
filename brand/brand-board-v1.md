@@ -80,6 +80,16 @@ Ne pas inventer de témoignages, logos clients, certifications, résultats ou r�
 - Éviter : costume, chemise corporate, posture de banque d'images, sourire forcé, bureau de start-up générique, décor luxueux inventé et esthétique « consultant en costume ».
 - Le rendu peut être soigné et professionnel sans effacer le style personnel.
 
+### Références matérielles reçues
+
+Des photographies fournies par Jonathan servent de références visuelles pour les futures scènes de travail :
+- MacBook Pro argenté à coque aluminium et clavier AZERTY, montré ouvert et fermé.
+- Écran photographié pendant une session de travail avec ChatGPT.
+- Chargeur connecté et traces d'usure visibles : ne pas retoucher le matériel au point de le rendre artificiellement neuf.
+- Une photo de produit du bonnet noir Obey précise le modèle visuel de référence.
+
+**Limites d'interprétation :** ces vues ne confirment ni le modèle exact ni la configuration technique du MacBook. La pièce et la table visibles ne doivent pas être présentées comme le bureau permanent de Jonathan. Les photos de référence sont présentes dans la conversation ; elles ne sont pas archivées dans le dépôt à ce stade.
+
 ## 8. Maquettes et contenu
 
 La proposition visuelle suggère une page d’accueil avec :
