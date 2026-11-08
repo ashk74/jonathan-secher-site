@@ -31,9 +31,14 @@ Créer un site professionnel statique pour présenter l'activité de Jonathan Se
 - Contrôle clavier : le lien d'évitement « Aller au contenu » reçoit le premier focus et devient visible.
 - Contrôle `prefers-reduced-motion` : défilement fluide désactivé et transitions fortement réduites.
 - Contrastes calculés : texte anthracite/ivoire 14,15:1 ; anthracite/orange 5,24:1 ; orange foncé texte/ivoire 4,99:1 ; texte secondaire/ivoire 5,92:1.
-- Revue visuelle des captures desktop et mobile réalisée. Aucun audit automatisé axe/WCAG n'est installé ; ces contrôles ne constituent pas une certification de conformité.
+- Revue visuelle des captures desktop et mobile réalisée.
+- `html-validate` installé ; les six pages passent la validation HTML.
+- `Playwright` et `axe-core` installés ; 12 combinaisons des six pages à 390 et 1440 px testées : zéro violation axe après corrections, aucun débordement horizontal.
+- Lighthouse installé ; premier audit local de l'accueil : performance 98, accessibilité 100, bonnes pratiques 100, SEO 100. Audit des six pages en cours de finalisation ; les scores locaux restent indicatifs.
+- `npm audit` : aucune vulnérabilité signalée lors du contrôle initial des dépendances de développement.
 - Canal de contact par email confirmé : `jonathansecher.digital@gmail.com`, intégré à la page contact avec lien `mailto:`.
-- Mentions légales et confidentialité incomplètes ; pages explicitement marquées comme versions de travail.
+- Mentions légales partiellement structurées ; adresse email renseignée, mais statut, identité légale applicable, adresse professionnelle/domiciliation, téléphone, identifiants, TVA éventuelle, directeur de publication et hébergeur effectif restent à confirmer.
+- Politique de confidentialité incomplète ; chargement des polices via Google Fonts et modalités de traitement des emails à finaliser.
 - GitHub Pages non configuré ou vérifié ; aucune publication effectuée.
 
 ## Critères d'acceptation
@@ -48,8 +53,8 @@ Créer un site professionnel statique pour présenter l'activité de Jonathan Se
 
 ## Blocages avant publication
 
-1. Compléter les informations de l'éditeur et de l'hébergeur.
-2. Vérifier et finaliser la politique de confidentialité, notamment les polices Google Fonts chargées à distance.
-3. Effectuer une revue visuelle et des contrôles d'accessibilité plus complets.
-4. Effectuer les audits SEO et performance.
-5. Vérifier GitHub Pages et l'URL publique après autorisation.
+1. Compléter et vérifier les informations légales applicables à l'éditeur ; ne pas publier d'adresse personnelle privée.
+2. Confirmer l'hébergement réellement retenu et renseigner les coordonnées légales du fournisseur.
+3. Finaliser la politique de confidentialité, notamment le chargement Google Fonts et les modalités de traitement des emails.
+4. Terminer les audits Lighthouse des six pages et effectuer les contrôles manuels d'accessibilité.
+5. Vérifier la configuration GitHub Pages et l'URL publique uniquement après autorisation explicite.

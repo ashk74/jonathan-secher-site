@@ -40,7 +40,26 @@ python3 -m http.server 8000
 
 Ouvrir ensuite `http://localhost:8000/`.
 
-Aucune dépendance npm ni étape de compilation n'est nécessaire.
+Aucune dépendance npm d'exécution ni étape de compilation n'est nécessaire pour le site. Les outils de contrôle qualité sont des dépendances de développement séparées.
+
+## Outils de validation
+
+Prérequis : Node.js 22.12 ou supérieur et Brave Browser installé sur la machine d'audit.
+
+```bash
+npm ci
+npm run audit:html
+python3 -m http.server 8765
+```
+
+Dans un second terminal :
+
+```bash
+npm run audit:a11y
+npm run audit:lighthouse
+```
+
+Les scripts vérifient les six pages ; les rapports Lighthouse sont conservés temporairement dans `/tmp`. Détails et limites : `docs/audit-qualite.md`.
 
 ## Gouvernance et publication
 

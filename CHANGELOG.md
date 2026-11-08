@@ -2,6 +2,30 @@
 
 Les changements notables sont consignés ici, du plus récent au plus ancien.
 
+## [0.4.0] - 2026-11-08
+
+### Ajouté
+- Outils de validation de développement : html-validate, Playwright, axe-core et Lighthouse.
+- Scripts reproductibles d'audit HTML, accessibilité et Lighthouse sur les six pages.
+- Documentation des procédures d'audit et de la préparation juridique.
+
+### Corrigé
+- Contrastes insuffisants et nom accessible du lien de marque détectés par axe-core.
+- Sémantique HTML et attributs ARIA détectés par html-validate.
+- Informations de contact et d'hébergement dans les pages de travail juridique actualisées sans inventer les données manquantes.
+
+### Validation
+- Six pages valides avec html-validate.
+- Douze combinaisons axe-core (six pages, deux formats) sans violation.
+- Lighthouse exécuté sur les six pages ; scores consignés dans docs/audit-qualite.md.
+- npm audit : aucune vulnérabilité signalée.
+
+### Limites restantes
+- Informations légales de l'éditeur et de l'hébergeur à confirmer.
+- Confidentialité à finaliser, notamment les polices Google Fonts et les traitements liés aux emails.
+- Tests manuels d'accessibilité à poursuivre.
+- Aucun push ni déploiement.
+
 ## [0.3.1] - 2026-11-08
 
 ### Modifié
