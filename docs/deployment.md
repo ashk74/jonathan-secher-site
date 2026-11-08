@@ -27,8 +27,8 @@
 
 - Branche de travail : `feat/portfolio-mvp`.
 - Commit de base : `93a6319990524650bd2e37580dc5fed62cb4a67f`.
-- Aucun commit de réalisation effectué à ce stade.
-- Aucun push de la branche de travail.
+- Commit local de réalisation : `61a8dcf50cbaa7f4cc388b58e8daff2c0449d5bb` (`feat: add initial static portfolio MVP pages`).
+- Branche de travail non poussée ; aucun push effectué.
 - Aucun workflow GitHub Actions configuré.
 - Aucune URL publique vérifiée.
 
