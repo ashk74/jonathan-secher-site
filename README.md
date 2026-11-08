@@ -2,40 +2,50 @@
 
 Dépôt public du site professionnel de Jonathan Secher.
 
-**Statut :** fondation Git initialisée ; identité visuelle et site à produire.
+**État :** première intégration statique réalisée sur la branche `feat/portfolio-mvp`. Le site reste une version de travail non publiable tant que les coordonnées, mentions légales, informations de confidentialité et validations de contenu ne sont pas finalisées.
 
-**Technologies cibles :** HTML5, CSS3 et JavaScript natif.
+**Technologies :** HTML5, CSS3 et JavaScript natif uniquement si nécessaire (aucun JavaScript requis actuellement).
 
-**Hébergement cible :** GitHub Pages.
+**Hébergement cible :** GitHub Pages. Configuration et publication non vérifiées.
 
 ## Objectif
 
-Présenter clairement les services de création de sites web et les usages concrets de l'intelligence artificielle pour les TPE/PME, avec un discours accessible, crédible et sans promesse non vérifiée.
+Présenter clairement les services de création de sites web et les usages concrets de l'intelligence artificielle pour les indépendants, artisans et petites entreprises, avec un discours accessible, crédible et sans promesse non vérifiée.
 
-## Structure
+## Pages
 
-- `brand/` : identité, charte graphique et ressources de marque.
-- `assets/` : images, icônes et polices.
-- `css/` : styles et tokens de conception.
-- `js/` : interactions du site.
+- `index.html` : accueil et présentation.
+- `creation-sites-web/index.html` : création de sites web.
+- `ia-utile/index.html` : usages de l'IA adaptés aux métiers.
+- `contact/index.html` : contact et demande de projet (coordonnées à confirmer).
+- `mentions-legales/index.html` : trame non finalisée.
+- `confidentialite/index.html` : trame non finalisée.
+
+## Structure technique
+
+- `css/tokens.css` : tokens issus de la Brand Board V1.
+- `css/site.css` : styles du site.
+- `assets/icons/favicon.svg` : favicon initial.
+- `brand/` : identité, charte graphique et références.
 - `docs/` : architecture, contenu, qualité et exploitation.
-- `.github/workflows/` : automatisation et déploiement.
+- `.github/workflows/` : emplacement réservé aux workflows éventuels.
 
-## Démarrage local
+## Prévisualisation locale
 
-Le site sera statique et pourra être ouvert directement dans un navigateur. Pendant le développement, un serveur HTTP local est recommandé pour tester les chemins et le comportement comme en production.
+Depuis la racine du dépôt :
 
-## Documentation
+```bash
+python3 -m http.server 8000
+```
 
-- [Vue d'ensemble](docs/project-overview.md)
-- [Architecture](docs/architecture.md)
-- [Identité de marque](brand/identity.md)
-- [Guide de marque](brand/README.md)
-- [Déploiement](docs/deployment.md)
-- [Journal des modifications](CHANGELOG.md)
+Ouvrir ensuite `http://localhost:8000/`.
 
-## Gouvernance
+Aucune dépendance npm ni étape de compilation n'est nécessaire.
 
-Les décisions non confirmées sont identifiées comme hypothèses. Aucun témoignage, client, résultat, certification ou gain chiffré ne doit être inventé. Aucun secret, identifiant privé ou donnée personnelle de prospect/client ne doit être ajouté à ce dépôt public.
+## Gouvernance et publication
+
+Les décisions non confirmées sont identifiées comme hypothèses ou points à compléter. Aucun témoignage, client, résultat, certification ou gain chiffré ne doit être inventé. Aucun secret, identifiant privé ou donnée personnelle de prospect/client ne doit être ajouté à ce dépôt public.
 
 Le dépôt stratégique interne conserve les informations commerciales et les décisions confidentielles. Ce dépôt contient uniquement les éléments nécessaires au site public et à sa maintenance.
+
+La publication reste bloquée jusqu'à validation du contact, des informations légales, de la confidentialité, du rendu final et des tests. Aucun push ni déploiement n'est effectué sans autorisation explicite.

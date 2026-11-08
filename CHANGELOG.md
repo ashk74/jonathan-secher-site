@@ -2,6 +2,28 @@
 
 Les changements notables sont consignés ici, du plus récent au plus ancien.
 
+## [0.3.0] - 2026-11-08
+
+### Ajouté
+- Première intégration des quatre pages principales : accueil, création de sites web, IA utile et contact.
+- Pages de travail pour les mentions légales et la confidentialité, non finalisées et non publiables en l'état.
+- Feuille de styles globale responsive, avec états de focus visibles et réduction des animations.
+- Favicon SVG initial basé sur le monogramme JS.
+- Métadonnées SEO de base et métadonnées Open Graph sur les pages principales.
+- Documentation de l'état d'implémentation, de l'architecture et des blocages avant publication.
+
+### Modifié
+- Réutilisation des tokens de la Brand Board V1.
+- Contraste de la couleur accent foncée utilisé pour les textes et le focus, tout en conservant l'orange officiel pour les éléments de marque et les CTA.
+- Démonstrations conservées comme concepts fictifs explicitement signalés.
+
+### Limites connues
+- Coordonnées publiques à confirmer ; aucun formulaire opérationnel.
+- Mentions légales et confidentialité à compléter.
+- Chargement des polices via Google Fonts à valider au regard de la confidentialité ou à remplacer par des fichiers locaux.
+- Tests d'accessibilité approfondis et revue visuelle à poursuivre.
+- GitHub Pages non configuré ou vérifié ; aucun déploiement effectué.
+
 ## [0.2.0] - 2026-11-07
 
 ### Ajouté
