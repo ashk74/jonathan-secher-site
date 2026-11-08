@@ -2,7 +2,7 @@
 
 Dépôt public du site professionnel de Jonathan Secher.
 
-**État :** première intégration statique réalisée sur la branche `feat/portfolio-mvp`. Le site reste une version de travail non publiable tant que les coordonnées, mentions légales, informations de confidentialité et validations de contenu ne sont pas finalisées.
+**État :** première intégration statique réalisée sur la branche `feat/portfolio-mvp`. Le canal de contact par email est confirmé et intégré. Le site reste une version de travail non publiable tant que les mentions légales, informations de confidentialité et validations de contenu ne sont pas finalisées.
 
 **Technologies :** HTML5, CSS3 et JavaScript natif uniquement si nécessaire (aucun JavaScript requis actuellement).
 
@@ -17,7 +17,7 @@ Présenter clairement les services de création de sites web et les usages concr
 - `index.html` : accueil et présentation.
 - `creation-sites-web/index.html` : création de sites web.
 - `ia-utile/index.html` : usages de l'IA adaptés aux métiers.
-- `contact/index.html` : contact et demande de projet (coordonnées à confirmer).
+- `contact/index.html` : contact et demande de projet (adresse email confirmée, lien `mailto:`).
 - `mentions-legales/index.html` : trame non finalisée.
 - `confidentialite/index.html` : trame non finalisée.
 
@@ -48,4 +48,4 @@ Les décisions non confirmées sont identifiées comme hypothèses ou points à 
 
 Le dépôt stratégique interne conserve les informations commerciales et les décisions confidentielles. Ce dépôt contient uniquement les éléments nécessaires au site public et à sa maintenance.
 
-La publication reste bloquée jusqu'à validation du contact, des informations légales, de la confidentialité, du rendu final et des tests. Aucun push ni déploiement n'est effectué sans autorisation explicite.
+La publication reste bloquée jusqu'à validation des informations légales, de la confidentialité, du rendu final et des tests. Aucun push ni déploiement n'est effectué sans autorisation explicite.

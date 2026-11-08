@@ -32,7 +32,7 @@ Créer un site professionnel statique pour présenter l'activité de Jonathan Se
 - Contrôle `prefers-reduced-motion` : défilement fluide désactivé et transitions fortement réduites.
 - Contrastes calculés : texte anthracite/ivoire 14,15:1 ; anthracite/orange 5,24:1 ; orange foncé texte/ivoire 4,99:1 ; texte secondaire/ivoire 5,92:1.
 - Revue visuelle des captures desktop et mobile réalisée. Aucun audit automatisé axe/WCAG n'est installé ; ces contrôles ne constituent pas une certification de conformité.
-- Coordonnées professionnelles non confirmées ; la page contact contient un bloc de validation.
+- Canal de contact par email confirmé : `jonathansecher.digital@gmail.com`, intégré à la page contact avec lien `mailto:`.
 - Mentions légales et confidentialité incomplètes ; pages explicitement marquées comme versions de travail.
 - GitHub Pages non configuré ou vérifié ; aucune publication effectuée.
 
@@ -48,8 +48,8 @@ Créer un site professionnel statique pour présenter l'activité de Jonathan Se
 
 ## Blocages avant publication
 
-1. Confirmer l'adresse email ou le canal de contact public.
-2. Compléter les informations de l'éditeur et de l'hébergeur.
-3. Vérifier et finaliser la politique de confidentialité, notamment les polices Google Fonts chargées à distance.
-4. Effectuer une revue visuelle et des contrôles d'accessibilité plus complets.
+1. Compléter les informations de l'éditeur et de l'hébergeur.
+2. Vérifier et finaliser la politique de confidentialité, notamment les polices Google Fonts chargées à distance.
+3. Effectuer une revue visuelle et des contrôles d'accessibilité plus complets.
+4. Effectuer les audits SEO et performance.
 5. Vérifier GitHub Pages et l'URL publique après autorisation.

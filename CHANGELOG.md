@@ -2,6 +2,18 @@
 
 Les changements notables sont consignés ici, du plus récent au plus ancien.
 
+## [0.3.1] - 2026-11-08
+
+### Modifié
+- Canal de contact public confirmé et intégré à la page Contact via un lien `mailto:`.
+- Documentation du projet mise à jour pour retirer ce point de blocage.
+
+### Limites restantes
+- Mentions légales et confidentialité à compléter.
+- Chargement des polices via Google Fonts à valider au regard de la confidentialité ou à remplacer par des fichiers locaux.
+- Tests d'accessibilité approfondis et audits SEO/performance à poursuivre.
+- GitHub Pages non configuré ou vérifié ; aucun déploiement effectué.
+
 ## [0.3.0] - 2026-11-08
 
 ### Ajouté
