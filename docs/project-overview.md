@@ -37,7 +37,9 @@ Créer un site professionnel statique pour présenter l'activité de Jonathan Se
 - Lighthouse installé ; premier audit local de l'accueil : performance 98, accessibilité 100, bonnes pratiques 100, SEO 100. Audit des six pages en cours de finalisation ; les scores locaux restent indicatifs.
 - `npm audit` : aucune vulnérabilité signalée lors du contrôle initial des dépendances de développement.
 - Canal de contact par email confirmé : `jonathansecher.digital@gmail.com`, intégré à la page contact avec lien `mailto:`.
-- Mentions légales partiellement structurées ; adresse email renseignée, mais statut, identité légale applicable, adresse professionnelle/domiciliation, téléphone, identifiants, TVA éventuelle, directeur de publication et hébergeur effectif restent à confirmer.
+- Statut juridique confirmé par le porteur : entreprise individuelle (EI), sans confirmation du régime micro-entrepreneur.
+- Page des mentions légales adaptée à une EI : nom/prénom civils, adresse de domiciliation, téléphone, identifiant administratif, TVA éventuelle, directeur de publication et hébergeur restent à compléter et vérifier. La page reste en noindex et non publiable.
+- Préparation juridique documentée dans docs/legal-validation.md à partir des références Service Public vérifiées le 8 novembre 2026.
 - Politique de confidentialité incomplète ; chargement des polices via Google Fonts et modalités de traitement des emails à finaliser.
 - GitHub Pages non configuré ou vérifié ; aucune publication effectuée.
 

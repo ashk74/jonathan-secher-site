@@ -2,6 +2,19 @@
 
 Les changements notables sont consignés ici, du plus récent au plus ancien.
 
+## [0.4.1] - 2026-11-08
+
+### Modifié
+- Trame des mentions légales adaptée au statut d'entreprise individuelle (EI) confirmé par le porteur.
+- Distinction explicite entre identité civile de l'éditeur et nom de marque.
+- Terminologie corrigée : adresse de domiciliation pour une EI, et non siège social.
+- Préparation juridique enrichie avec les exigences d'identification, de contact, de TVA éventuelle, de directeur de publication et d'hébergeur.
+
+### Limites
+- Informations civiles et administratives non fournies ; page maintenue en noindex et non publiable.
+- Aucune donnée personnelle privée ajoutée au dépôt.
+- Aucun push ni déploiement.
+
 ## [0.4.0] - 2026-11-08
 
 ### Ajouté

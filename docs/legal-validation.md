@@ -2,60 +2,64 @@
 
 Dernière vérification documentaire : 8 novembre 2026.
 
-## Référence officielle
+## Références officielles
 
-La trame est préparée à partir de la fiche Entreprendre Service Public, vérifiée le 13 octobre 2026 :
+- Mentions obligatoires d'un site professionnel : https://entreprendre.service-public.gouv.fr/vosdroits/F37351
+- Domiciliation d'une entreprise individuelle et confidentialité de l'adresse : https://entreprendre.service-public.gouv.fr/vosdroits/F2160
 
-- https://entreprendre.service-public.gouv.fr/vosdroits/F37351?lang=fr
+Références consultées le 8 novembre 2026. Cette préparation documentaire ne remplace pas un avis juridique ; vérifier les exigences applicables à l'activité effectivement exercée.
 
-Cette documentation est une aide de préparation, pas un avis juridique. Les mentions définitives dépendent du statut réel de l'activité, de son immatriculation, de son régime fiscal et de l'hébergement effectivement retenu.
+## Statut confirmé
 
-## Informations à confirmer avant publication
+- Forme juridique déclarée par le porteur : entreprise individuelle (EI).
+- Le régime micro-entrepreneur n'est pas confirmé ; ne pas assimiler automatiquement EI et micro-entreprise.
+- Nom de marque : Jonathan Secher (ne vaut pas confirmation de l'identité civile exacte de l'éditeur).
+- Email de contact public confirmé : jonathansecher.digital@gmail.com.
 
-### Éditeur
+## Mentions à intégrer pour une EI
 
-Selon le statut :
-- Personne physique / entreprise individuelle : nom et prénom ; mention « entrepreneur individuel » ou « EI » si applicable.
-- Personne morale : dénomination sociale, forme juridique et capital social.
+### Identité et coordonnées
 
-Dans les deux cas, confirmer l'adresse professionnelle / domiciliation ou le siège social, l'adresse électronique et un numéro de téléphone professionnel.
+- Nom et prénom civils exacts, accompagnés de la mention « Entrepreneur individuel » ou « EI ».
+- Adresse de domiciliation administrative de l'entreprise individuelle (ne pas employer « siège social », terme réservé aux sociétés).
+- Adresse électronique et numéro de téléphone permettant de contacter l'entreprise.
 
-### Identification administrative
+### Identification et TVA
 
-À déterminer selon l'activité :
-- numéro d'immatriculation ou d'identification (RNE, RCS, Siren/Siret selon le cas) ;
-- numéro individuel de TVA uniquement s'il est applicable ;
-- autorisation, titre ou organisme professionnel uniquement si l'activité est réglementée.
+- Vérifier le numéro SIREN et les éventuelles inscriptions / immatriculations applicables à l'activité à partir du justificatif officiel.
+- Ajouter le numéro individuel de TVA uniquement s'il est applicable et attribué.
+- Si l'activité est réglementée ou soumise à autorisation, vérifier les mentions spécifiques (titre, règles professionnelles, autorité/organisme compétent et coordonnées selon le cas).
 
-### Publication
+### Directeur de publication
 
-Confirmer le nom du directeur de publication selon la situation de l'éditeur et les modalités de publication.
+- Renseigner le nom et le prénom du directeur de publication correspondant à la personne effectivement responsable de la publication du site.
+- Ne pas déduire cette identité de la seule marque commerciale.
 
 ### Hébergement
 
-GitHub Pages est seulement la cible technique actuelle. Tant que la configuration effective n'est pas confirmée, ne pas inscrire GitHub comme hébergeur effectif.
-
-Avant publication, relever les coordonnées légales de l'hébergeur effectivement utilisé : nom ou dénomination, adresse et numéro de téléphone.
+- Renseigner le nom ou la dénomination de l'hébergeur, son adresse et son numéro de téléphone, après confirmation de la solution effectivement utilisée.
+- GitHub Pages reste une cible technique et n'est pas déclaré comme hébergeur confirmé.
 
 ### Propriété intellectuelle
 
-Vérifier les droits et licences de chaque police, icône, image, illustration et contenu tiers. Les exemples de projets restent identifiés comme concepts fictifs.
+Vérifier les droits et licences des polices, icônes, images, illustrations et contenus tiers. Les exemples de projets restent identifiés comme concepts fictifs.
 
-## État connu
+## Confidentialité de l'adresse
 
-- Adresse email publique confirmée : jonathansecher.digital@gmail.com.
-- Nom de marque du site : Jonathan Secher.
-- Statut juridique de l'activité : non renseigné.
-- Adresse professionnelle / domiciliation ou siège : non renseigné.
-- Téléphone professionnel : non renseigné.
-- Identifiant d'immatriculation : non renseigné.
-- Régime / numéro de TVA : non renseigné.
+Service Public indique que l'adresse de domiciliation fait partie des mentions obligatoires du site. Un entrepreneur individuel peut demander la non-diffusion publique de son adresse personnelle dans les registres et annuaires concernés. Cette démarche ne doit pas être présentée comme une dispense automatique de l'obligation propre au site internet. Si l'adresse est personnelle, examiner la situation avant publication et obtenir une solution de domiciliation / validation juridique appropriée. Ne jamais publier une adresse personnelle dans le dépôt pendant cette phase de préparation.
+
+## Informations manquantes
+
+- Nom et prénom civils exacts de l'éditeur : non confirmés dans ce projet.
+- Adresse de domiciliation de l'EI : non communiquée.
+- Téléphone professionnel : non communiqué.
+- SIREN et justificatif d'immatriculation : non communiqués.
+- Régime micro ou régime réel : non confirmé.
+- Numéro de TVA : non confirmé / applicabilité à vérifier.
+- Activité réglementée ou autorisation spécifique : à vérifier selon l'activité déclarée.
 - Directeur de publication : à confirmer.
-- Hébergeur final : non confirmé ; GitHub Pages reste une cible.
-- Activité réglementée : non déterminée.
-
-Ne pas demander ni publier une adresse personnelle privée dans le dépôt public. Utiliser une adresse professionnelle ou une domiciliation légalement adaptée, puis vérifier sa pertinence avec un professionnel si nécessaire.
+- Hébergeur effectif : non confirmé.
 
 ## Règle de publication
 
-La page mentions-legales/index.html doit rester en noindex et clairement identifiée comme version de travail tant que les informations applicables ne sont pas complètes et vérifiées. Ne jamais remplacer les champs inconnus par des suppositions.
+La page mentions-legales/index.html reste en noindex et porte un avertissement de travail. Ne pas retirer ces protections avant d'avoir vérifié chaque information applicable, confirmé l'hébergeur et relu la page finale. Ne jamais remplacer un champ inconnu par une supposition.
