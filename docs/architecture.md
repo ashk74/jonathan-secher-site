@@ -2,29 +2,33 @@
 
 ## Décision
 
-Site statique sans backend : HTML5, CSS3 et JavaScript natif si nécessaire.
+Site statique sans backend : HTML5, CSS3 et JavaScript natif. Les pages HTML générées restent directement publiables sur un hébergement statique (GitHub Pages visé, non encore vérifié).
 
-## Hébergement
+## Pages
 
-GitHub Pages est la cible. Sa configuration et sa publication ne sont pas encore vérifiées.
-
-## Structure implémentée
-
-- `index.html` : accueil et présentation.
-- `creation-sites-web/index.html` : page de création de sites.
-- `ia-utile/index.html` : page des usages IA.
-- `contact/index.html` : page contact.
+- `index.html` : accueil.
+- `creation-sites-web/index.html` : Sites web.
+- `ia-utile/index.html` : IA utile.
+- `tarifs/index.html` : repères tarifaires, page de travail non publiable tant que les conditions commerciales ne sont pas confirmées.
+- `contact/index.html` : contact.
 - `mentions-legales/index.html` : trame légale non finalisée.
 - `confidentialite/index.html` : trame confidentialité non finalisée.
-- `css/tokens.css` : variables de marque.
-- `css/site.css` : styles globaux et responsive.
-- `assets/icons/favicon.svg` : favicon initial.
+
+## Sources communes
+
+- `components/site-navigation.json` : source unique des libellés, chemins, ordre des liens, identité de marque et notes de footer.
+- `scripts/sync-site-shell.mjs` : génère les headers et footers de toutes les pages à partir de cette configuration.
+- `css/tokens.css` : source unique des variables de design (couleurs, typographies, rayons, largeur et ombres).
+- `css/site.css` : composants et règles de présentation globales/responsive.
 - `brand/` : références de marque.
+- `assets/` : médias et icônes.
 - `docs/` : documentation du projet.
+
+Ne pas modifier manuellement les headers/footers générés dans les pages. Modifier `components/site-navigation.json`, puis exécuter `npm run build`. Les contenus et sections propres à chaque page restent dans leur fichier HTML : ne pas créer une abstraction pour un bloc qui n'est utilisé qu'une seule fois ou dont la structure diffère réellement.
 
 ## Principes
 
-- Pas de Symfony, PHP, base de données ou serveur applicatif.
+- Pas de Symfony, PHP, base de données ou serveur applicatif pour ce site.
 - Pas de framework frontend dans le MVP.
 - Pas de secrets dans le dépôt ou dans le JavaScript livré au navigateur.
 - Dépendances externes limitées et justifiées.
@@ -38,4 +42,4 @@ Manrope pour les titres et Inter pour les textes. Le chargement actuel utilise G
 
 ## Évolution
 
-Un générateur statique pourra être évalué si le volume de pages ou les besoins de composants le justifient. Aucun framework ne sera ajouté sans besoin concret.
+Rester sur la génération statique légère tant qu'elle répond au besoin. Évaluer un générateur statique complet uniquement si les pages, les collections de contenu ou les besoins de composants deviennent nettement plus nombreux.

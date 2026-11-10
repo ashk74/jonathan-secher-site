@@ -1,0 +1,24 @@
+{
+  "brand": {
+    "name": "Jonathan Secher",
+    "mark": "JS"
+  },
+  "navigation": [
+    { "key": "home", "label": "Accueil", "path": "index.html" },
+    { "key": "sites", "label": "Sites web", "path": "creation-sites-web/" },
+    { "key": "ia", "label": "IA utile", "path": "ia-utile/" },
+    { "key": "pricing", "label": "Tarifs", "path": "tarifs/" },
+    { "key": "contact", "label": "Contact", "path": "contact/", "class": "nav-contact" },
+    { "key": "legal", "label": "Mentions légales", "path": "mentions-legales/" },
+    { "key": "privacy", "label": "Confidentialité", "path": "confidentialite/" }
+  ],
+  "pages": [
+    { "key": "home", "file": "index.html", "root": "", "footerNote": "© 2026 Jonathan Secher. Site personnel de présentation." },
+    { "key": "sites", "file": "creation-sites-web/index.html", "root": "../", "footerNote": "© 2026 Jonathan Secher. Site personnel de présentation." },
+    { "key": "ia", "file": "ia-utile/index.html", "root": "../", "footerNote": "© 2026 Jonathan Secher. Site personnel de présentation." },
+    { "key": "pricing", "file": "tarifs/index.html", "root": "../", "footerNote": "© 2026 Jonathan Secher. Site personnel de présentation." },
+    { "key": "contact", "file": "contact/index.html", "root": "../", "footerNote": "© 2026 Jonathan Secher. Site personnel de présentation." },
+    { "key": "legal", "file": "mentions-legales/index.html", "root": "../", "footerNote": "Page de travail non publiable en l'état." },
+    { "key": "privacy", "file": "confidentialite/index.html", "root": "../", "footerNote": "Page de travail non publiable en l'état." }
+  ]
+}

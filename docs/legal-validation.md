@@ -63,3 +63,18 @@ Service Public indique que l'adresse de domiciliation fait partie des mentions o
 ## Règle de publication
 
 La page mentions-legales/index.html reste en noindex et porte un avertissement de travail. Ne pas retirer ces protections avant d'avoir vérifié chaque information applicable, confirmé l'hébergeur et relu la page finale. Ne jamais remplacer un champ inconnu par une supposition.
+
+
+## Mise à jour — activité non encore réimmatriculée (8 novembre 2026)
+
+L'utilisateur indique ne pas être encore déclaré pour la nouvelle activité. Un justificatif INSEE fourni confirme que l'ancienne entreprise individuelle est cessée depuis le 27/08/2024. Les identifiants historiques sont conservés hors de ce dépôt public.
+
+En conséquence :
+- Ne pas afficher « Entrepreneur individuel » comme statut actuel d'une activité nouvellement créée.
+- Ne pas présenter l'ancien SIREN ou SIRET comme identifiant actif de la nouvelle activité.
+- La page de mentions légales indique désormais que la nouvelle activité n'est pas immatriculée et reste strictement non publiable.
+- Le maintien éventuel de l'ancien SIREN lors de la reprise doit être confirmé par le Guichet unique / INSEE après traitement de la formalité.
+- Les informations administratives détaillées sont conservées dans un dossier préparatoire local, hors de ce dépôt public.
+- La politique de confidentialité reste une trame à valider selon l'hébergement, les polices externes et les traitements réellement activés.
+
+Aucune donnée personnelle d'adresse ni pièce d'identité ne doit être ajoutée à ce dépôt. Les données sensibles de formalité doivent être saisies directement dans le parcours officiel.

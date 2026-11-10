@@ -1,8 +1,10 @@
 {
   "scripts": {
-    "audit:html": "html-validate index.html creation-sites-web/index.html ia-utile/index.html contact/index.html mentions-legales/index.html confidentialite/index.html",
+    "audit:html": "html-validate index.html creation-sites-web/index.html ia-utile/index.html tarifs/index.html contact/index.html mentions-legales/index.html confidentialite/index.html",
     "audit:a11y": "node scripts/audit-accessibility.mjs",
-    "audit:lighthouse": "bash scripts/audit-lighthouse.sh"
+    "audit:lighthouse": "bash scripts/audit-lighthouse.sh",
+    "sync:components": "node scripts/sync-site-shell.mjs",
+    "build": "npm run sync:components && npm run audit:html"
   },
   "devDependencies": {
     "@axe-core/playwright": "^4.14.0",

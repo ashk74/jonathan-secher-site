@@ -37,7 +37,7 @@ Créer un site professionnel statique pour présenter l'activité de Jonathan Se
 - Lighthouse installé ; premier audit local de l'accueil : performance 98, accessibilité 100, bonnes pratiques 100, SEO 100. Audit des six pages en cours de finalisation ; les scores locaux restent indicatifs.
 - `npm audit` : aucune vulnérabilité signalée lors du contrôle initial des dépendances de développement.
 - Canal de contact par email confirmé : `jonathansecher.digital@gmail.com`, intégré à la page contact avec lien `mailto:`.
-- Statut juridique confirmé par le porteur : entreprise individuelle (EI), sans confirmation du régime micro-entrepreneur.
+- Situation administrative actuelle : aucune nouvelle activité immatriculée à ce jour. L'ancienne entreprise individuelle est cessée depuis le 27/08/2024 ; les détails administratifs sont conservés hors de ce dépôt public.
 - Page des mentions légales adaptée à une EI : nom/prénom civils, adresse de domiciliation, téléphone, identifiant administratif, TVA éventuelle, directeur de publication et hébergeur restent à compléter et vérifier. La page reste en noindex et non publiable.
 - Préparation juridique documentée dans docs/legal-validation.md à partir des références Service Public vérifiées le 8 novembre 2026.
 - Politique de confidentialité incomplète ; chargement des polices via Google Fonts et modalités de traitement des emails à finaliser.
@@ -60,3 +60,12 @@ Créer un site professionnel statique pour présenter l'activité de Jonathan Se
 3. Finaliser la politique de confidentialité, notamment le chargement Google Fonts et les modalités de traitement des emails.
 4. Terminer les audits Lighthouse des six pages et effectuer les contrôles manuels d'accessibilité.
 5. Vérifier la configuration GitHub Pages et l'URL publique uniquement après autorisation explicite.
+
+## Mise à jour qualité — 9 novembre 2026
+
+- Les six pages passent `html-validate`.
+- Les 12 contrôles axe-core (six pages en 390 px et 1440 px) ne signalent aucune violation ni débordement horizontal.
+- Lighthouse mobile simulé après optimisation WebP : performance 89 à 98, accessibilité 100, bonnes pratiques 100 sur les six pages ; SEO 100 sur les quatre pages principales et 60 sur les pages légales conservées en `noindex`.
+- `npm audit --omit=dev` : zéro vulnérabilité signalée.
+- Trois variantes WebP optimisées sont utilisées ; les originaux JPEG sont conservés et les crédits inchangés.
+- Ces résultats ne lèvent pas les blocages de publication : mentions légales, confidentialité et hébergement restent à finaliser.

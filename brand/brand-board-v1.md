@@ -1,7 +1,7 @@
 # Brand Board V1 — Direction retenue
 
-**Statut :** direction graphique sélectionnée par le propriétaire du projet le 2026-11-07.  
-**Référence visuelle :** proposition 2 générée dans la conversation Centre de commande IA.  
+**Statut :** direction graphique sélectionnée par le propriétaire du projet le 2026-11-07.
+**Référence visuelle :** proposition 2 générée dans la conversation Centre de commande IA.
 **Portée :** base de conception pour le site statique ; ce document ne certifie pas encore la conformité du site, du logo final ou des exports.
 
 ## 1. Identité
@@ -152,3 +152,37 @@ Le contenu réel et les offres restent à valider séparément. Les maquettes g�
 
 - 2026-11-07 : proposition 2 choisie comme direction de la Brand Board V1.
 - Les éléments de cette planche constituent une base V1 ; toute évolution ultérieure doit être tracée dans Git.
+
+
+## Révision de direction — Palette V2 et échelle typographique
+
+**Date :** 2026-11-08
+**Statut :** nouvelle direction demandée et intégrée ; elle remplace les couleurs et tailles de titres de la proposition 2 V1 pour le site.
+
+### Palette V2
+
+| Rôle | Couleur | Code |
+|---|---|---|
+| Anthracite doux | Texte et structure | `#292D32` |
+| Terre cuite | Accent graphique | `#C66A45` |
+| Terre cuite profonde | Liens et boutons accessibles | `#A94F32` |
+| Terre cuite survol | Survol des actions | `#8F412B` |
+| Ivoire chaud | Fond principal | `#F7F4EF` |
+| Pêche poudrée | Accent de surface | `#F2DFD1` |
+| Pierre chaude | Sections secondaires | `#EEE7DE` |
+| Gris pierre | Bordures | `#E4DCD2` |
+| Gris chaud | Texte secondaire | `#706963` |
+| Blanc cassé | Cartes | `#FFFEFC` |
+| Anthracite profond | Sections sombres | `#24282E` |
+
+L'orange vif initial est abandonné. Le cuivre/terre cuite est réservé aux accents, tandis que sa nuance profonde est utilisée pour les petits textes et les boutons afin de conserver un contraste lisible.
+
+### Hiérarchie typographique V2
+
+- H1 desktop : maximum 3,25 rem ; réduction sur mobile.
+- H2 desktop : maximum 2,25 rem.
+- H3 : environ 1,12 rem.
+- Graisse des titres ramenée à 700 (H3 650) ; Manrope conservée pour les titres et Inter pour les textes.
+- Objectif : hiérarchie plus calme, moins massive, avec davantage de place pour les contenus.
+
+La validation des contrastes doit être rejouée après intégration. Cette révision ne modifie pas les décisions relatives aux portraits personnels, aux photographies ou aux contenus.

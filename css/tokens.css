@@ -1,32 +1,31 @@
 /*
- * Design tokens — Brand Board V1 / proposition 2
- * Direction sélectionnée le 2026-11-07.
- * À vérifier en contexte réel, notamment les contrastes WCAG, avant publication.
+ * Design tokens — Palette V2
+ * Direction : terre cuite, pierre chaude et anthracite doux.
+ * Révision demandée le 2026-11-08 ; remplace la palette V1 orange vif.
  */
-
 :root {
-  /* Brand palette */
-  --color-ink: #1F2937;
-  --color-accent: #F97316;
-  --color-peach: #FCD9B4;
-  --color-ivory: #FFFAF5;
-  --color-gray-100: #E5E7EB;
-
-  /* Semantic aliases */
+  --color-ink: #292D32;
+  --color-accent: #C66A45;
+  --color-accent-strong: #A94F32;
+  --color-accent-hover: #8F412B;
+  --color-peach: #F2DFD1;
+  --color-ivory: #F7F4EF;
+  --color-stone: #EEE7DE;
+  --color-gray-100: #E4DCD2;
+  --color-muted: #6B625B;
+  --color-surface: #FFFEFC;
+  --color-dark: #24282E;
   --color-text: var(--color-ink);
   --color-text-inverse: var(--color-ivory);
   --color-background: var(--color-ivory);
-  --color-surface: #FFFFFF;
   --color-border: var(--color-gray-100);
-  --color-primary: var(--color-accent);
-  --color-primary-hover: #EA580C;
-
-  /* Typography */
+  --color-primary: var(--color-accent-strong);
+  --color-primary-hover: var(--color-accent-hover);
   --font-heading: "Manrope", system-ui, sans-serif;
   --font-body: "Inter", system-ui, sans-serif;
-
-  /* Layout foundations */
   --radius-card: 1rem;
   --radius-control: 0.75rem;
-  --content-width: 75rem;
+  --content-width: 72rem;
+  --color-accent-text: #9A3412;
+  --shadow-soft: 0 16px 42px rgb(41 45 50 / 7%);
 }

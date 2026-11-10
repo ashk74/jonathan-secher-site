@@ -6,6 +6,7 @@ const pages = [
   "/",
   "/creation-sites-web/",
   "/ia-utile/",
+  "/tarifs/",
   "/contact/",
   "/mentions-legales/",
   "/confidentialite/",

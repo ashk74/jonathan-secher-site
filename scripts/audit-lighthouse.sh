@@ -8,6 +8,7 @@ declare -a ROUTES=(
   "home:/"
   "creation-sites-web:/creation-sites-web/"
   "ia-utile:/ia-utile/"
+  "tarifs:/tarifs/"
   "contact:/contact/"
   "mentions-legales:/mentions-legales/"
   "confidentialite:/confidentialite/"
@@ -27,7 +28,7 @@ done
 
 node --input-type=module <<'NODE'
 import fs from "node:fs";
-const names = ["home", "creation-sites-web", "ia-utile", "contact", "mentions-legales", "confidentialite"];
+const names = ["home", "creation-sites-web", "ia-utile", "tarifs", "contact", "mentions-legales", "confidentialite"];
 console.log("\nScores Lighthouse (mobile simulé) :");
 console.log("Page | Performance | Accessibilité | Bonnes pratiques | SEO");
 for (const name of names) {
